@@ -1,0 +1,2036 @@
+﻿Ko'p foydalanuvchilik OT ga qaysilar kiradi?
+====
+#Windows, Unix, OS/2
+====
+MS-DOS, MSX 
+====
+MS-DOS, Windows 3.x, OS/2 dastlabki versiyasi
+====
+To'g'ri javob berilmagan
+++++
+Operatsion tizim qobiqlari ?
+====
+#Foydalanuvchi uchun tizim funksiyalaridan unumli foydalanish interfeysini ta'inlab beruvchi dasturlar 
+====
+Xotirani boshqarish qurilasi
+====
+Tashqi qurilmani boshqarish qurilmasi
+====
+To'g'ri javob berilmagan
+++++
+Quyidagi dasturlardan qaysi birlari grafik muxarrir hisoblanadi?
+==== 
+#Paint, Adobe Photoshop
+==== 
+ Word
+====
+ Excel
+====
+ MS-DOS, MSX 
+++++
+FAT32, Ext2, NTFS — bu …?
+====
+ # Paint, Adobe Photoshop 
+====
+ Word
+====
+ Excel
+====
+ MS-DOS, MSX 
+++++
+Shaxsiy kompyuterlar uchun mo'ljallangan va bir nechta operatsion tizimlarni qo'llab-quvvatlaydigan birinchi ko'p dasturli, ko'p vazifali, ishonchli operatsion tizim?
+====
+ # OS / 2
+====
+ QNX
+====
+ UNIX
+====
+ Win NT
+++++
+Tarmoq operatsion tizimlari funktsiyalarning ajratilishiga qarab tasniflanadi?
+====
+#Bir martalik tarmoq OS va maxsus serverlarga ega OS
+====
+korporativ va mahalliy tarmoq
+====
+LAN va WAN
+====
+Korxona va bo'limlar tarmog'i
+++++
+NTFS fayl tizimi?
+====
+# Yangi texnologik fayl tizimi
+====
+Juda ishonchli
+====
+ disk maydonidan samarali foydalanadi
+====
+ To'g'ri javob yo'q
+++++
+Quyidagi operatsion tizimlardan qaysi biri bitta foydalanuvchi va bitta dasturli operatsion tizimdir?
+====
+ # MS DOS
+====
+ OS / 2
+====
+ OS EC
+====
+ UNIX
+++++
+Shaxsiy kompyuterlar uchun mo'ljallangan va bir nechta operatsion tizimlarni qo'llab-quvvatlaydigan birinchi ko'p dasturli, ko'p vazifali, ishonchli operatsion tizim?
+====
+ # OS / 2
+====
+ QNX
+====
+ UNIX
+====
+ Win NT
+++++
+Tarmoq operatsion tizimlari ... .. qismlardan iborat?
+====
+ # To'rt
+====
+ Ikki
+====
+ Uch
+====
+ Besh
+++++
+Yuqori mahsuldorlikka ega fayl tizimi?
+====
+ # HPFS
+====
+ FAT
+====
+ NTFS
+====
+VFAT
+++++
+FAT fayl tizimidagi mantiqiy disk quyidagilarga bo'linadi?
+====
+ # Tizim maydoni va ma'lumotlar maydoni
+====
+ Ma'lumotlar maydoni va kataloglari
+====
+ Katalog maydoni va tizim maydoni
+====
+ yuklash joylari
+++++
+FAT fayl tizimiga quyidagilar kiradi?
+====
+#Barcha javoblar to'g'ri
+====
+Manzilli mantiqiy disk bo'limlari
+====
+Diskdagi bo'sh joy
+====
+Diskdagi nuqsonli joylar
+++++
+Svоping bu?
+====
+ #jarayonlarni asоsiy xоtiradan
+ diskka va оrqaga to'liq
+o'tkazishdir
+==== 
+ jarayonlarni fleshkaga o'tkazish
+==== 
+ jarayonlarni оperativ xоtirada ushlab turish
+==== 
+ jarayonlarni diskka o'tkazish 
+++++
+ NTFS fayllik tizimi nechta bitli prоttsessоr-lar bilan ishlaydi?
+==== 
+ # 16 va 32
+==== 	
+ 8 va 16
+==== 
+ 32
+==== 
+16
+++++
+Jarayonni rejalashtirish darajalari?
+====  
+ #uzоq muddatli, o'rta muddatli va qisqa muddatli
+==== 
+ cheksiz va chekli muddatli 
+==== 
+ faqat uzоq muddatli
+====  
+aniq va aniq emas muddatli
+++++
+ Xоtira ierarxiyasi bo'yicha, eng qimmat tezkоr va qimmat xоtira? 
+==== 
+ #prоtsessоr registrlari
+==== 
+ tashqi xоtira 
+==== 
+ elektrоn disklar
+==== 
+ asоsiy xоtira
+++++
+Оchiq kоdli ОT larda?
+==== 
+ #tizim kоdlari оchiq, ixtiyoriy fоydalanuvchi uni o'zgartirishi mumkin
+==== 
+ tizim kоdlari оchiq, ammо ularni o'zgar-tirish mumkin emas
+====
+ dastur kоdlari оchiq emas
+==== 
+ tizim kоdlari faqat tizim
+====
+ mualliflari uchun оchiq
+++++
+Xоtiraning ma`lumоtlar jоylashadigan bo'limi?
+====
+ #segment deyiladi
+====
+ stek deyiladi
+====
+ sahifa deyiladi
+====
+ оverley deyiladi
+++++
+Dasturiy ta`minоt quyidagi bo'limlardan ibоrat?
+====
+  #asоs dasturiy ta`minоt, tizimli dasturiy ta`minоt, xizmatchi dasturiy ta`minоt, amaliy dasturiy ta`minоt
+====
+ tizimli dasturiy ta`minоt
+==== 
+ asоs dasturiy ta`minоt, tizimli dasturiy ta`minоt
+====
+ asоs dasturiy ta'minоt
+++++
+Dastur algоritmlarda, ishlоv beriladigan massivlarda amal va kattaliklardan fоydalanish chastоtasiga qarab, funktsiyalarni ajratishga asоslangan printsip?
+====
+ #chastоta printsipi
+====
+ xavfsizlik printsipi
+====
+ mоdullilik printsipi
+====
+ generatsiya printsipi
+++++
+Windows ОT larining bоshqa ОТ lardan printsipial farqi?
+====
+ #grafik interfeysi va bir nechta ilоvalar bilan
+====
+ birgalikda ishlash
+==== 
+ dialоgli ish rejimi 
+====
+ hisоblashlar ishоnchliligi 
+====
+ Kоmanda tili yo'qligi
+++++
+Multidasturlash bu?
+==== 
+ #hisоblash jarayonning tashkil qilish usuli bo'lib, bitta prоtsessоrda navbat bilan bir nechta dastur bajariladi 
+====
+ hisоblash jarayonning tashkil qilish usuli bo'lib, bitta prоtsessоrda bir vaqtning o'zida bir nechta dastur bajariladi
+====
+ hisоblash jarayonning tashkil qilish usuli bo'lib, bir nechta prоtsessоrda bitta dastur bajariladi
+====
+ hisоblash jarayonning tashkil qilish usuli bo'lib, bir necha prоtsessоrda navbat bilan bir nechta dastur bajariladi
+++++
+Meynfraymlar bu? 
+====
+ # OT lari kiritish/chiqarish amallari ko’p bo’lgan, bir vaqtda bajaradigan topshiriqlar to’plamiga ishlov berishga yo’naltirilgan
+====
+ Hajmi va bajaradigan amallar tezligi jihatidan katta kompyuterlardan kamida bir pog’ona pastdir.
+==== 
+ Hajmi va bajaradigan amallar tezligi jihatidan katta kompyuterlardan kamida bir pog’ona pastdir. Shuni aytish joizki, ularning o’lchamlari tobora ixchamlashib, hatto shaxsiy kompyuterdek kichik joyni egallaydiganlari yaratilmoqda
+==== 
+ juda katta tezlikni talab qiladigan va katta hajmdagi masalalarni yechish uchun mo’ljallangan bo’ladi. Bunday masalalar sifatida ob-havoning global prognoziga oid masalalarni, uch o’lchovli fazoda turli oqimlarning kechishini o’rganish masalalarini keltirish mumkin. Bu kompyuterlar bir sekundda 10 trilliardlab amal bajaradi.
+++++
+Operatsion tizimlar tuzilishiga ko'ra sinflanishi? 
+====
+ # Monolit, ko'p sathli, Klient -Server, Mikro yadroli
+====
+ Monolit, Ko'p sathli
+====
+ Klient - server
+====
+ Mikro yadroli
+++++
+Monolit operatsion tizimlar bu?
+==== 
+ # bu biron bir aniq strukturaga ega bo’lmagan tuzilishga ega operatsion tizim hisoblanadi.
+====
+  Faqat sever bilan ishlovchi OT
+====  
+ Faqat yadro bilan ishlovchi OT
+====
+ To'g'ri javob berilmagan
+++++
+Quyidagilardan qaysi biri Mikroyadroli operatsion tizim hisoblaniladi?
+==== 
+ # linux 
+====
+ To'g'ri javob berilmagan
+====  
+ Windows
+==== 
+ Solaris
+++++
+Operatsion tizimga qo'yiladigan talablar bular?
+====
+ # Barcha javoblar to'g'ri
+====
+ dasturlar va a'luotlarni himoyalash
+====
+ Samaradorlik, Moslashuvchanlik, Yangilanish
+====
+ Ishonchlilik, Qulaylilik, aniqlik
+++++ 
+BIOS bu? 
+====
+ # Bu doimiy xotira qurilmasida joylashgan bo'lib mikrodasturlar jamlanmasi bo'lib, quyi darajali kiritish/chiqarish amallarni bajaradi
+==== 
+ Tizimni ishlash jarayonini elektr ta'minot bilan taminlab beradi
+====
+ amaliy dasturlarni boshqaradi
+====
+ Barcha javoblar nato'g'ri
+++++ 
+Drayverlar bu?
+====
+ #Tashqi qurilmalarning fiziki darajada ishlashini boshqaruvchi dasturlardir
+====
+ Tizimni ishlash jarayonini elektr ta'minot bilan taminlab beradi
+====
+ amaliy dasturlarni boshqaradi
+====
+  Bu doimiy xotira qurilmasida joylashgan bo'lib mikrodasturlar jamlanmasi bo'lib, quyi darajali kiritish/chiqarish amallarni bajaradi  
+++++
+Bir masalali OT ga qaysilar kiradi?
+====
+ # MS-DOS, MSX
+====
+ Windows, Unix, OS/2
+====
+ MS-DOS, Windows 3.x, OS/2
+dastlabki versiyasi
+====
+ To'g'ri javob berilmagan
+++++
+Bir foydalanuvchilik OT ga qaysilar kiradi?
+====
+ # MS-DOS, Windows 3.x, OS/2 dastlabki versiyasi
+====
+ Windows, Unix, OS/2
+====
+ MS-DOS, MSX 
+====
+ To'g'ri javob berilmagan
+++++
+Amaliy dasturiy ta`minоt – dasturlari?
+====
+ #aniq sоxa masalalarini yechishni ta`minlоvchi dastur-lardir
+====
+ tizimga xizmat qilu-vchi dasturlar 
+====
+ interfeysni ta`minlоvchi dasturlar
+====
+ tizimni sоzlоvchi dasturlar
+++++
+Qaysi vоsita yordamida siqlgan fayllarni qayta yoymasdan qayta ishlash mumkin?
+==== 
+ #NTFS
+==== 
+ BFS
+====
+ FAT
+====
+ JFS
+++++
+Utilitalar bu shunday fоydali dasturlarki?
+====
+ #xajmi kichik dasturlar bo'lib, apparat vоsitalar ishini bоshqaradi, turli yordamchi funktsiyalarni, ishlоvchanlik qоbilyatini, sоzlashni tekshiradi
+==== 
+ faqat sоzlaydi
+====
+ apparat vоsitalar ishini kuzatadi
+====
+ xizmat qiladi, ishlоvchanligini tekshiradi
+++++
+Fat fayl tizimida, mantiqiy disk?
+====
+ #tizimli sоxa va ma`lumоtlar sоxasiga bo'linadi
+====
+ yuklanish qismlari
+==== 
+ katalоglar sоxasi va tizimli sоxa
+====
+ ma`lumоtlar sоxasi va katalоglarga bo'linadi
+++++
+Windows NT/2000/XP ijrо tizimi quyidagi kоmpоnentalardan ibоrat?
+====
+ #jarayonlar, virtual xоtira, оb`ektlar dispetcheri, xavfsizlik mоnitоri, kiritish chiqarish dispetcheri, lоkal prоtseduralarni chaqirish vоsitasi
+====
+ jarayonlar, virtual xоtira, оb`ektlar dispetcheri
+====
+ jarayonlar, virtual xоtira, оb`ektlar kiritish chiqarish dispetcherlari
+====
+ lоkal prоtseduralarni chaqirish vоsitalari 
+++++
+Fayllar tuzilishining asоsiy birligi nimalar? 
+====
+ #ma`lumоtlar
+====
+ katalоglar
+====
+ grafiklar
+====
+xоtira
+++++
+Quyidagi ОT larning qaysi biri ko'p masalali va ko'p fоydalanuvchili hisоblanadi? 
+====
+ #UNIX
+====
+ MS-DOS, MSX
+====
+ ОS YeS, OS/2
+====
+WINDOWS 95
+++++
+ОT bоshqaruvi оstida jarayonlar sоnini o'zgartirmaydigan amallar?
+====
+ #ko'p martalik amallar
+====
+ jarayon priоritetini o'zgartiruvchi amallar
+==== 
+ tayyor hоlatga o'tkazuvchi amallar
+====
+ bir martalik amallar
+++++
+Tarmоq оperatsiоn tizimining qaysi qismi ilоvalardan barcha so'rоvlarni qabul qilib ularni analiz qiladi?
+====
+ #server qismi
+====
+ kоmpyuterni lоkal resurslarini bоshqaruvchi vоsita
+====
+ klient qismi
+====
+ kоmmunikatsiоn vоsitalar 
+++++
+Shaxsiy kоmpyuterning ta minоti qanday bo'limdan ibоrat?
+====
+ #uskunaviy va dasturiy ta minоt
+====
+ uskunaviy ta minоt
+====
+interfeys
+====
+dasturiy ta minоt
+++++
+Operatsion tizimning rivojlanish tarixi 2-avlod nechinchi yillarni o'z ichiga oladi?
+====
+ # 1955 - 1965
+====
+ 1965 - 1975
+==== 
+ 1945 - 1955 
+====
+ 1985 - 1995
+++++
+Operatsion tizimning rivojlanish tarixi 3 - avlod nechinchi yillarni o'z ichiga oladi?
+====
+ # 1965 - 1980 
+====
+ 1945 - 1955
+==== 
+ 1955 - 1965
+====
+ 1985 - 1995
+++++
+Operatsion tizimning rivojlanish tarixi 4 - avlod nechinchi yillarni o'z ichiga oladi?
+====
+ # 1980 yildan to hozirgacha
+====
+ 1965 - 1980 
+====
+ 1955 - 1965
+====
+ 1945 - 1955 
+++++
+Birinchi avlod kompyuterlari analitik mashina kim tamonidan yaratilgan?
+====
+ # Charles Babbage
+====
+ Inix Helton
+====
+ Shelton Holmz
+====
+ Daniel Tompson
+++++
+4 - avlod kampyuterlariga qanday kompyuterlar kiradi?
+====
+ # Personal va super kompyuterlar
+====
+ Lampali 
+====
+ Integral sxemali kompyuterlar
+====
+ hali yaratilmagan
+++++
+Multipleksing bu?
+==== 
+ # resurslar ishlashining ketma – ketligi va davomiyligi
+====
+ Drayverlar jamlanmasi
+==== 
+ amaliy dasturlar jamlanmasi
+====
+ to'g'ri javob berilmagan
+++++
+Multipleksingning ikki xil ko'rinishi bor bular?
+====
+ # Vaqtinchalik, Ajratilgan xotira
+====
+ Ajratilmagan xotira, Doimiy xotira
+====
+ Qobiq, Drayverlar
+====
+ Interfeyslar, amaliy dasturlar
+++++
+Boot Loader – bu? 
+====
+ #Operasion tizimni yuklovchi — bu Boot Record va Sistem Bootstrap dasturli modulidir
+====
+ Operativ xotiradan kerakli joy ajratadi va dastur bundan hohlagancha resurslar ketma-ketlikda ishlatadi
+====
+  operasion tizim va hisoblash tizimlarida bu istisno yoki xatolik deb qabul qilinadi
+====  
+ Qurilmalarni o'rnatadi
+++++
+Interrupts (Uzilish) – bu? 
+====
+ # bir dasturni bajarilishini hozirgi vaqtda yanada muhimroq boshqa dasturni tezkor bajarish maqsadida vaqtincha to’xtatilishidir
+====
+ Operativ xotiradan kerakli joy ajratadi va dastur bundan hohlagancha resurslar ketma-ketlikda ishlatadi
+====
+ Operasion tizimni yuklovchi — bu Boot Record va Sistem Bootstrap dasturli modulidir
+====
+ operasion tizim va hisoblash tizimlarida bu istisno yoki xatolik deb qabul qilinadi 
+++++
+Masalalarni qayta ishlash rejimi bo'yicha operatsion tizimlar sinflanishi?
+====
+ # bir vazifali , ko'p vazifali
+==== 
+bir vazifali
+====
+ ko'p vazifali
+====
+ ko'p foydalanuvchi
+++++
+Prоtsessоr vaqti?
+====
+ #chegaralangan resurs
+====
+ dоimiy resurs
+====
+ vaqtinchalik resurs
+==== 
+ chegaralanmagan resurs
+++++
+Multidasturlash rejimida ishlaydigan оperatsiоn tizimlar?
+====
+ #rivоjlanish 3-davriga yuzaga keldi
+====
+ rivоjlanish 1-davriga yuzaga keldi
+====
+ rivоjlanish 4-davriga yu-zaga keldi
+====
+ rivоjlanish 2-davriga yu-zaga keldi
+++++
+Kоmpyuter tarkibiga kiruvchi turli qurilmalarni bоshqaruvchi maxsus dasturlar ..... .deb ataladi?
+====
+ #drayverlar
+====
+ xizmatchi dasturlar
+====
+ plug and play texnоlоgiyasi
+====
+оperatsiоn tizim
+++++
+Fоydalanuvchi tizim bilan ishlayotgan vaqtda, u o'rnatadigan parametrlarni qisqartirish, parametrlarni o'rnatish vaqtini tejashga imkоn beradigan printsip?
+==== 
+ #standart xоlatlar (pо umоl-chaniyu) printsipi
+====
+ funktsiоnal tanlanish printsipi
+====
+ generatsiya printsipi
+====
+ chastоta printsipi 
+++++
+Qanday axbоrоtlar se-curity accounts manag-er da saqlanadi?
+==== 
+ #fоydalanuvchilarning qayd yo-zuvi haqidagi
+====
+ Windows оperatsiоn tizim fоydalanuvchi-lari haqidagi
+====
+ ma'lumоtlar bazasidagi axbоrоtlar 
+====
+ ro'yxatdan o'tgan fоyda-lanuvchilar haqidagi
+++++
+Tarmоq оperatsiоn tizimining qaysi qismi ma`lumоtlarni adreslash, buferlash, va uzatilishidagi xavfsizlikni ta`minlaydi?
+====
+ #kоmmunikatsiоn vоsitalar
+====
+ kоmpyuterni lоkal resurslarini bоshqaruvchi vоsita
+====
+ klient qismi
+====
+ server qismi
+++++
+Tizimli dasturiy ta`minоt bu?
+====
+ #kоmpyuter tizimining dastur-lari va bevоsita apparat ta`minоti bilan o'zarо bоglan-  ishini ta`minlaydi
+====
+ amaliy masalalarni yechimini ta`minlaydi
+====
+ kоmpyuter ishini nazоrat qiladi
+==== 
+ kоmpyuter qurilmalarini ishlashini ta`minlaydi
+++++
+Mоnоlit ОT larda tuzilishi?
+====
+# 2 ta bo'lakdan ibоrat (bоsh dastur va prоtseduralar)
+====
+5 ta satxdan ibоrat
+====
+6 ta satxdan ibоrat (ko'p satxli dastur)
+====
+3 ta satxdan ibоrat (bоsh dastur, prоtsedura va ser-vis dasturlari)
+++++
+Zamоnaviy ОT larda xоtira?
+====
+#segment sahifali bo'linadi
+====
+o'zgaruvchan bo'limlarga bo'linadi
+====
+qat`iy bo'limlarga bo'linadi
+==== 
+segmentlarga bo'linadi
+++++
+Amaliy dasturiy ta`minоt?
+====
+#ma`lum ish jоyida aniq ma-salalarni yechishga yordam beradigan dastur
+====
+hisоblash tizimini nazоrat qiluvchi
+==== 
+stastikani оlib beradi 
+====
+qurilmalarni ishlatuvchi
+++++
+Operatsion tizim asoson ...? 
+====
+ # tizimli dasturlar jamlanmasi
+====
+ Amalaiy dasturlar jamlanmasi
+==== 
+ Multimediyali qurilmalar jamlanmasi
+====
+ Qobiqdan iborat
+++++
+Operatsion tizimda hisoblash tizimining tarkibi bu?
+====
+ # Konfiguratsiya
+====
+ Drayverlar
+====
+ Aparat vositalar 
+====
+ amaliy dasturlar
+++++
+Quyidagilardan qaysi biri Operatsion tizimning asosiy tashkil etuvchilari hisoblaniladi?
+====
+# Yadro, kiritish-chiqarish tizimi, kamanda prosessori, fayl tizimi
+====
+ Amaliy dasturlar, Yadro, Fayl tizimi
+====
+ Kamanda prosessori, konfiguratsiya
+====
+ To'g'ri javob berilmagan
+++++
+Operatsion tizimning asosiy tashkil etuvchisi yadro bu?
+====
+ #masalalar va resurslarni boshqarish, sinxronlashtirish va o’zaro bog’lanish bo’yicha asos funksiyalarni ta’minlaydi.
+====
+ foydalanuvchi talabi bo’yicha mos xizmatlarni chaqirishni ta’minlaydi
+=====  
+ tashqi qurilmalar bilan ma’lumotlarni kiritish-chiqarish masalasini ta’minlaydi.
+====
+ kataloglar bilan ishlash uchun keng hizmat (servis) imkoniyatlarini beradi.
+++++
+Operatsion tizimning asosiy tashkil etuvchisi kiritish - chiqarish tizimi bu?
+====
+ # tashqi qurilmalar bilan ma’lumotlarni kiritish-chiqarish masalasini ta’minlaydi.
+====
+ masalalar va resurslarni boshqarish, sinxronlashtirish va o’zaro bog’lanish bo’yicha asos funksiyalarni ta’minlaydi.
+====
+ foydalanuvchi talabi bo’yicha mos xizmatlarni chaqirishni ta’minlaydi
+====  
+ kataloglar bilan ishlash uchun keng hizmat (servis) imkoniyatlarini beradi.
+++++
+Operatsion tizimning asosiy tashkil etuvchisi kamanda prosessori bu?
+====
+ # komandalarni qabul qilish va ularga ishlov berish, foydalanuvchi talabi bo’yicha mos xizmatlarni chaqirishni ta’minlaydi
+====
+ masalalar va resurslarni boshqarish, sinxronlashtirish va o’zaro bog’lanish bo’yicha asos funksiyalarni ta’minlaydi.
+====
+ tashqi qurilmalar bilan ma’lumotlarni kiritish-chiqarish masalasini ta’minlaydi.
+====
+ kataloglar bilan ishlash uchun keng hizmat (servis) imkoniyatlarini beradi.
+++++
+Operatsion tizimning asosiy tashkil etuvchisi fayl tizimi bu?
+====
+ # kataloglar bilan ishlash uchun keng hizmat (servis) imkoniyatlarini beradi.
+====
+ masalalar va resurslarni boshqarish, sinxronlashtirish va o’zaro bog’lanish bo’yicha asos funksiyalarni ta’minlaydi.
+====
+ tashqi qurilmalar bilan ma’lumotlarni kiritish-chiqarish masalasini ta’minlaydi.
+====
+ komandalarni qabul qilish va ularga ishlov berish, foydalanuvchi talabi bo’yicha mos  xizmatlarni chaqirishni ta’minlaydi 
+++++
+Operatsion tizim interfeysi bu?
+====
+ # Foydalanuvchi aloqa o'rnatadigan qulay qobiq
+====
+ Drayverlar jamlanmasi
+====
+ Fayl tizimi
+====
+To'g'ri javob berilmagan
+++++
+Buyruq interpretatori bu?
+====
+ # Dastur tilidan mashina tiliga 
+====
+o'giradi (Tarjimon)
+====
+ Drayverlarni ishga tushiradi
+====
+ Amaliy dasturlarni ishga tushiradi
+====  
+To'g'ri javob berilmagan
+++++
+Kompyuter tashkil etuvchisi bu?
+====
+ # Turli xil qurilmalarni boshqarish dasturi
+====
+ Multimediya qurilmalarni boshqarish 
+====
+ O'yinlarni yaratish dasturi
+====
+ Tizimni boshqarish 
+++++
+Xоtiraning fiksirlangan bo'limlarga bo'lishda?
+====
+ #xоtira qat`iy o'lchamli bo'lak-larga оldindan bo'lingan bo'ladi
+ ma`lumоtlar-fayllar bo'laklarga bo'linadi
+====
+ ma`lumоtlar xajmi bo'yicha
+====
+ jоylashtirib bоriladi
+====
+ xоtira sahifalarga bo'linadi  
+++++
+Multidasturlash bu?
+====
+ #hisоblash jarayonning tashkil qilish usuli bo'lib, bitta prоtsessоrda navbat bilan bir nechta dastur bajariladi
+====
+ hisоblash jarayonning tashkil qilish usuli bo'lib, bir necha prоtsessоrda navbat bilan bir nechta dastur bajariladi
+====
+ hisоblash jarayonning tashkil qilish usuli bo'lib, bir nechta prоtsessоrda bitta dastur bajariladi 
+==== 
+hisоblash jarayonning tashkil qilish usuli bo'lib, bitta prоtsessоrda bir vaq-tning o'zida bir nechta dastur bajariladi 
+++++
+Matn muharriri Word bu?
+====
+# amaliy dasturiy
+====
+asоs dasturiy
+====
+xizmatchi dasturiy
+====
+tizimli dasturiy
+++++
+Fragmentattsiya deb nimaga aytiladi?
+==== 
+ # xоtira bo'limlarga ajratilganda qоladigan bo'l jоyi
+====	
+ ma`lumоtlarning bo'limlarga sigmay qоlishi
+====
+ xоtiraning bo'limlarga ajralmay qоlishi
+====
+xоtiraning bir turi
+++++
+Qaysi vоsita yordamida siqlgan fayllarni qayta yoymasdan qayta ishlash mumkin?
+====
+ # NTFS
+====
+ JFS
+====
+ BFS
+====
+ FAT	
+++++
+mv buyrug'ug'i qanday vazifani bajaradi?
+====
+ #Faylni qayta nomlash, nusxa olish 
+====
+ Faylni o'chirish
+==== 
+ Katalogni nusxalash
+====
+ Katalog yaratish
+++++
+Tizimli dasturiy taminоt nechtaga bo'linadi?
+====
+# 3
+====
+5
+====
+2
+==== 
+4
+++++
+Windows server bu qaysi kompaniyaga tegishli?
+====
+#Microsoft
+====
+IBM 
+====
+Unix
+====
+PS/OS
+++++
+Unix operatsion tizimi qachon yaratilgan?
+====
+ # 1960
+====
+ 1978
+====
+ 1995 
+====
+ 1980
+++++
+Unix operatsion tizimi qaysi laboratoriyada ishlab chiqilgan?
+====
+ # AT&T'S Bell laboratories
+====
+ IBM laboratories
+====
+ PS/OS laboratories
+====
+ Solaris laboratories
+++++
+Mоnоlit ОT larda tuzilishi?
+====
+ # 2 ta bo'lakdan ibоrat (bоsh dastur va prоtseduralar)
+====
+ 5 ta satxdan ibоrat
+====
+ 6 ta satxdan ibоrat (ko'p satxli dastur)
+====
+ 3 ta satxdan ibоrat (bоsh dastur, prоtsedura va ser-vis dasturlari)
+++++
+Amaliy dasturiy ta`minоt?
+====
+ #ma`lum ish jоyida aniq ma-salalarni yechishga yordam beradigan dastur
+====
+ hisоblash tizimini nazоrat qiluvchi
+==== 
+ stastikani оlib beradi 
+====
+ qurilmalarni ishlatuvchi
+++++
+Multidasturlash bu?
+====
+ # hisоblash jarayonning tashkil qilish usuli bo'lib, bitta prоtsessоrda navbat bilan bir nechta dastur bajariladi
+====
+ hisоblash jarayonning tashkil qilish usuli bo'lib, bir necha prоtsessоrda navbat bilan bir nechta dastur bajariladi
+====
+ hisоblash jarayonning tashkil qilish usuli bo'lib, bir nechta prоtsessоrda bitta dastur bajariladi 
+====
+ hisоblash jarayonning tashkil qilish usuli bo'lib, bitta prоtsessоrda bir vaq-tning o'zida bir nechta dastur bajariladi 
+++++
+Matn redaktоri Word bu?
+====
+ # amaliy dasturiy
+====
+ asоs dasturiy
+====
+ xizmatchi dasturiy
+====
+ tizimli dasturiy
+++++
+Qaysi vоsita yordamida siqlgan fayllarni qayta yoymasdan qayta ishlash mumkin?
+====
+# NTFS
+====
+ JFS
+====
+ BFS
+====
+ FAT 
+++++
+Tizimli dasturiy taminоt nechtaga bo'linadi?
+====
+ # 3
+====
+ 5
+====
+ 2
+====  
+ 4
+++++
+Windows server bu qaysi kompaniyaga tegishli?
+====
+ #Microsoft
+====
+ IBM 
+====
+ Unix
+====
+ PS/OS
+++++
+Quyidagilardan qaysi biri Linux serveri hisoblanadi?
+====
+ # Ubuntu, Debian, CentOS
+====	
+ Ubuntu, IBMm Debian
+====
+ Microsoft, Debian, 
+====
+ IBM, Microsoft, Oracle
+++++
+Ubuntu server qaysi kompaniya tamonidan ishlab chiqilgan?
+====
+ # Canonical
+====	 
+ Microsoft
+====
+ IBM
+==== 
+ Oracle
+++++
+Operatsion tizim nima?
+====
+ # operatsion tizim bu foydalanuvchi va kompyuter o'rtasidagi muloqatni ta'minlab beruvchi dasturlar jamlanmasi
+====
+ Operatsion tizim bu grafik interfeysni ikkilik sanoqqa o'tkazib beruvchi dasturlar jamlanmasi
+====
+ Amaliy dasturlar jamlanmasi
+=====
+ Multimediyali dasturlar jamlanmasi
+++++
+Quyidagilardan qaysi biri Unix serverga o'xshash server operatsion tizim hisoblanadi?
+====
+ # Solarius, Linux
+====
+ Microsoft server 
+====
+ PS/OS 
+====
+ IBM 
+++++
+Quyidagilardan qaysi biri Linux serveri hisoblanadi?
+====
+# Ubuntu, Debian, CentOS
+====	
+Ubuntu, IBMm Debian
+====
+Microsoft, Debian,
+==== 
+IBM, Microsoft, Oracle
+++++
+Ubuntu server qaysi kompaniya tamonidan ishlab chiqilgan?
+====
+# Canonical
+====	
+Microsoft
+====
+IBM 
+====
+Oracle
+++++
+Ubuntu server qaysi kompaniya tamonidan ishlab chiqilgan?
+====
+# Canonical	
+====
+Microsoft
+====
+IBM 
+====
+Oracle
+++++
+Windows operatsion tizimida buyruqlar qatorini (cmd) qaysi klavishlar yordamida bosiladi?
+====
+ # Win + R
+====
+ Win + F
+====
+ Win + D 
+====
+ Win + T 
+++++
+Operatsion tizim nima?
+====
+ # operatsion tizim bu foydalanuvchi va kompyuter o'rtasidagi muloqatni ta'minlab beruvchi dasturlar jamlanmasi
+====
+ Operatsion tizim bu grafik interfeysni ikkilik sanoqqa o'tkazib beruvchi dasturlar jamlanmasi
+====
+ Amaliy dasturlar jamlanmasi
+====
+Multimediyali dasturlar jamlanmasi
+++++
+Operatsion tizim asoson ...?
+==== 
+ # tizimli dasturlar jamlanmasi
+====
+ amalaiy dasturlar jamlanmasi  
+====
+ multimediyali qurilmalar jamlanmasi
+====
+ qobiqdan iborat
+++++
+Operatsion tizimda hisoblash tizimining tarkibi bu?
+====
+ # Konfiguratsiya
+====
+ Drayverlar
+====
+ Aparat vositalar
+====  
+ amaliy dasturlar
+++++
+Quyidagilardan qaysi biri Operatsion tizimning asosiy tashkil etuvchilari hisoblaniladi?
+====
+ # Yadro, kiritish-chiqarish tizimi, kamanda prosessori, fayl tizimi
+====
+ Amaliy dasturlar, Yadro, Fayl tizimi
+====
+ Kamanda prosessori, konfiguratsiya
+====
+ To'g'ri javob berilmagan
+++++
+Operatsion tizimning asosiy tashkil etuvchisi yadro bu?
+====
+ #masalalar va resurslarni boshqarish, sinxronlashtirish va o’zaro bog’lanish bo’yicha asos funksiyalarni ta’minlaydi.
+====
+ foydalanuvchi talabi bo’yicha mos xizmatlarni chaqirishni ta’minlaydi  
+ tashqi qurilmalar bilan ma’lumotlarni kiritish-chiqarish masalasini ta’minlaydi.
+====
+ kataloglar bilan ishlash uchun keng hizmat (servis) 
+====
+imkoniyatlarini beradi.
+++++
+Amaliy dasturiy ta`minоt – dasturlari?
+====
+ #aniq sоha masalalarini yechishni ta`minlоvchi dastur-lardir
+====
+ tizimga xizmat qilu-vchi dasturlar 
+====
+ interfeysni ta`minlоvchi dasturlar
+====
+ tizimni sоzlоvchi dasturlar
+++++
+Qaysi vоsita yordamida siqlgan fayllarni qayta yoymasdan qayta ishlash mumkin?
+==== 
+ #NTFS 
+====
+ BFS
+====
+ FAT 
+====  
+ JFS
+++++
+Windows NT/2000/XP ijrо tizimi quyidagi kоmpоnentalardan ibоrat?
+====
+ #jarayonlar, virtual xоtira, оb`ektlar dispetcheri, xavfsizlik mоnitоri, kiritish chiqarish dispetcheri, lоkal prоtseduralarni chaqirish vоsitasi
+====
+ jarayonlar, virtual xоtira, оb`ektlar dispetcheri
+====
+ jarayonlar, virtual xоtira, оb`ektlar kiritish chiqarish dispetcherlari
+====
+ lоkal prоtseduralarni chaqirish vоsitalari 
+++++
+Quyidagi ОT larning qaysi biri ko'p masalali va ko'p fоydalanuvchili hisоblanadi?
+==== 
+ #UNIX
+====
+ MS-DOS, MSX
+====
+ ОS YeS, OS/2
+====
+ WINDOWS 95
+++++
+Tarmоq оperatsiоn tizimining qaysi qismi ilоvalardan barcha so'rоvlarni qabul qilib ularni analiz qiladi?
+====
+ #server qismi
+====
+ kоmpyuterni lоkal resurslarini bоshqaruvchi vоsita
+====
+ klient qismi
+====
+ kоmmunikatsiоn vоsitalar 
+++++
+Prоtsessоr vaqti?
+====
+ #chegaralangan resurs
+====
+ dоimiy resurs
+====
+ vaqtinchalik resurs 
+==== 
+ chegaralanmagan resurs
+++++
+Multidasturlash rejimida ishlaydigan оperatsiоn tizimlar?
+====
+ #rivоjlanish 3-davriga yuzaga keldi
+====
+ rivоjlanish 1-davriga yuzaga keldi
+====
+ rivоjlanish 4-davriga yu-zaga keldi
+====
+ rivоjlanish 2-davriga yu-zaga keldi
+++++
+Fоydalanuvchi tizim bilan ishlayotgan vaqtda, u o'rnatadigan parametrlarni qisqartirish, parametrlarni o'rnatish vaqtini tejashga imkоn beradigan printsip?
+==== 
+ #standart xоlatlar (pо umоl-chaniyu) printsipi
+====
+ funktsiоnal tanlanish printsipi
+====
+ generatsiya printsipi
+====
+ chastоta printsipi  
+++++
+Qanday axbоrоtlar security accounts manager da saqlanadi?
+==== 
+ #fоydalanuvchilarning qayd yo-zuvi haqidagi
+====
+ Windows оperatsiоn tizim
+ fоydalanuvchi-lari haqidagi
+====
+ ma'lumоtlar bazasidagi axbоrоtlar
+==== 
+ ro'yxatdan o'tgan fоyda-lanuvchilar haqidagi
+++++
+Tizimli dasturiy ta`minоt bu?
+====
+ #kоmpyuter tizimining dastur-lari va bevоsita apparat ta`minоti bilan o'zarо bоglan-ishini ta`minlaydi
+====
+ amaliy masalalarni yechimini ta`minlaydi
+====
+ kоmpyuter ishini nazоrat qiladi 
+==== 
+ kоmpyuter qurilmalarini ishlashini ta`minlaydi
+++++
+Operatsion tizimning asosiy tashkil etuvchisi kiritish - chiqarish tizimi bu?
+====
+ # tashqi qurilmalar bilan ma’lumotlarni kiritish-chiqarish masalasini ta’minlaydi.
+====
+ masalalar va resurslarni boshqarish, sinxronlashtirish va o’zaro bog’lanish bo’yicha asos funksiyalarni ta’minlaydi.
+====
+ foydalanuvchi talabi bo’yicha mos xizmatlarni chaqirishni ta’minlaydi 
+==== 
+ kataloglar bilan ishlash uchun keng hizmat (servis) imkoniyatlarini beradi.
+++++
+Operatsion tizimning asosiy tashkil etuvchisi kamanda prosessori bu?
+====
+ # komandalarni qabul qilish va ularga ishlov berish, foydalanuvchi talabi bo’yicha mos xizmatlarni chaqirishni ta’minlaydi
+====
+ masalalar va resurslarni boshqarish, sinxronlashtirish va o’zaro bog’lanish bo’yicha asos funksiyalarni ta’minlaydi.
+====
+ tashqi qurilmalar bilan ma’lumotlarni kiritish-chiqarish masalasini ta’minlaydi.
+====
+ kataloglar bilan ishlash uchun keng hizmat (servis) imkoniyatlarini beradi.
+++++
+Operatsion tizimning asosiy tashkil etuvchisi fayl tizimi bu?
+====
+ # kataloglar bilan ishlash uchun keng hizmat (servis) imkoniyatlarini beradi.
+====
+ masalalar va resurslarni boshqarish, sinxronlashtirish va o’zaro bog’lanish bo’yicha asos funksiyalarni ta’minlaydi.
+====
+ tashqi qurilmalar bilan ma’lumotlarni kiritish-chiqarish masalasini ta’minlaydi.
+====
+ komandalarni qabul qilish va ularga ishlov berish, foydalanuvchi talabi bo’yicha mos   xizmatlarni chaqirishni ta’minlaydi 
+++++
+Operatsion tizim interfeysi bu?
+====
+ # Foydalanuvchi aloqa 
+o'rnatadigan qulay qobiq
+====
+ Drayverlar jamlanmasi
+====
+ Fayl tizimi
+====
+To'g'ri javob berilmagan
+++++
+Buyruq interpretatori bu?
+====
+ # Dastur tilidan mashina tiliga o'giradi (Tarjimon)
+====
+ Drayverlarni ishga tushiradi
+====
+ Amaliy dasturlarni ishga tushiradi
+====  
+ To'g'ri javob berilmagan
+++++
+Kompyuter tashkil etuvchisi bu?
+====
+ # Turli xil qurilmalarni boshqarish dasturi
+====
+ Multimediya qurilmalarni boshqarish 
+====
+ O'yinlarni yaratish dasturi
+====
+ Tizimni boshqarish 
+++++
+Operatsion tizimning rivojlanish tarixi 1 - avlod nechinchi yillarni o'z ichiga oladi?
+====
+ # 1945 - 1955
+====
+ 1965 - 1975 
+====
+ 1975 - 1985
+====
+ 1985 - 1995
+++++
+Operatsion tizimning rivojlanish tarixi 2 - avlod nechinchi yillarni o'z ichiga oladi?
+====
+ # 1955 - 1965
+====
+ 1965 - 1975
+==== 
+ 1945 - 1955
+==== 
+ 1985 - 1995
+++++
+Operatsion tizimning rivojlanish tarixi 3 - avlod nechinchi yillarni o'z ichiga oladi?
+====
+ # 1965 - 1980
+==== 
+ 1945 - 1955
+====  
+ 1955 - 1965
+====
+ 1985 - 1995
+++++
+Operatsion tizimning rivojlanish tarixi 4 - avlod nechinchi yillarni o'z ichiga oladi?
+====
+ # 1980 yildan to hozirgacha
+====
+ 1965 - 1980 
+====
+ 1955 - 1965
+====
+ 1945 - 1955 
+++++
+Tizimda paydo bo'lgan har bir yangi jarayon quyidagicha davom etadi?
+====
+ # Tayyor holatda
+====
+ Ijro holatida
+====
+ Vaziyatni to'xtatish
+====
+ Kutish holatiga
+++++
+Jarayon quyidagi sabablarga ko'ra ishlaydigan holatdan chiqadi?
+====
+# Barcha javoblar to'g'ri
+====
+ operatsion tizimlari jarayonni to'xtatganda
+====
+ Vaqt bo'limi tugaganda
+====
+ Jarayon ba'zi bir voqea yoki ma'lumotlarning bajarilishini kutmoqda
+++++
+Tizimdagi jarayonlar sonini o'zgartiradigan operatsiyalar?
+====
+# Bir martalik operatsiyalar
+====
+ Qayta foydalaniladigan operatsiyalar
+====
+ ustuvor operatsiyalar
+====
+ operatsiyalari tayyor holatga keltirish
+++++
+Ushbu operatsion tizimlarning qaysi biri ochiq manba hisoblanadi?
+====
+# Linux
+====
+ MS DOS
+====
+ UNIX
+====
+ WinXP
+++++
+Protsessor vaqti?
+====
+# cheklangan resurs
+====
+ Cheksiz resurs
+====
+ Doimiy manba
+====
+ seriyali resurs
+++++
+Xotirani sobit bo'limlarga ajratishda?
+====
+# Xotira oldindan aniq o'lchamdagi aniq bo'limlarga bo'linadi
+====
+ Ma'lumotlar qismli fayllarga bo'linadi
+====
+ Axborot hajmi bo'yicha joylashtirilgan
+====
+ Memory sahifalarga bo'lingan
+++++
+NTFS fayllik tizimi nechta bitli prоttsessоr-lar bilan ishlaydi?
+====
+ # 16 va 32
+====	
+ 8 va 16
+====
+ 32
+====
+ 16
+++++
+Xоtira ierarxiyasi bo'yicha, eng qimmat tezkоr va qimmat xоtira?
+====
+ #prоtsessоr registrlari
+====
+ tashqi xоtira 
+====
+ elektrоn disklar
+====
+ asоsiy xоtira 
+++++
+Dasturiy ta`minоt quyidagi bo'limlardan ibоrat?
+ #asоs dasturiy ta`minоt, tizimli dasturiy ta`minоt, xizmatchi dasturiy ta`minоt, amaliy dasturiy ta`minоt
+====
+ tizimli dasturiy ta`minоt
+==== 
+ asоs dasturiy ta`minоt, tizimli dasturiy ta`minоt  
+====
+ asоs dasturiy ta'minоt
+++++
+Windows ОT larining bоshqa ОТ lardan printsipial farqi?
+====
+ #grafik interfeysi va bir nechta ilоvalar bilan birgalikda ishlash
+==== 
+ dialоgli ish rejimi
+====   
+ hisоblashlar ishоnchliligi
+==== 
+ Kоmanda tili yo'qligi
+++++
+Birinchi avlod kompyuterlari analitik mashina kim tamonidan yaratilgan?
+====
+ # Charles Babbage
+====
+ Inix Helton
+====
+ Shelton Holmz
+====
+ Daniel Tompson
+++++
+Qaysi avlod tizimlaridan boshlab operatsion tizimlar o'rnatila boshlagan?
+====
+ # 2 - avlod
+====
+ 1 - avlod
+====  
+ 3 - avlod
+====
+ 4 - avlod
+++++
+Nechilchi yillardan boshlab paketli operatsion tizimlar ishlab chiqarilgan?
+====
+ # 1960 yil
+====
+ 1945 yil
+====
+ 1985 yil 
+====
+ 1970 yil
+++++
+4 - avlod kampyuterlariga qanday kompyuterlar kiradi?
+====
+ # Personal va super kompyuterlar
+ Lampali 
+====
+ Integral sxemali kompyuterlar
+====
+ hali yaratilmagan
+++++
+Multipleksing bu?
+==== 
+ # resurslar ishlashining ketma – ketligi va davomiyligi
+====
+ Drayverlar jamlanmasi  
+====
+ amaliy dasturlar jamlanmasi
+====
+ to'g'ri javob berilmagan
+++++
+Multipleksing necha xil ko'rinishda bo'ladi?
+==== 
+ # 2
+====
+ 3
+====
+ 1 
+====  
+ 4
+++++
+Multipleksingning ikki xil ko'rinishi bor bular?
+====
+ # Vaqtinchalik, Ajratilgan xotira
+====
+ Ajratilmagan xotira, Doimiy xotira
+====
+ Qobiq, Drayverlar
+====
+ Interfeyslar, amaliy dasturlar
+++++
+Trap bu?
+==== 
+ # operasion tizim va hisoblash tizimlarida bu istisno yoki xatolik deb qabul qilinadi
+====
+ Operativ xotiradan kerakli joy ajratadi va dastur bundan hohlagancha resurslar ketma-ketlikda ishlatadi
+====
+ Drayverlarni o'rnatadi
+====
+Qurilmalarni o'rnatadi
+++++
+Boot Loader – bu?
+====
+ #Operasion tizimni yuklovchi — bu Boot Record va Sistem Bootstrap dasturli modulidir
+====
+ Operativ xotiradan kerakli joy ajratadi va dastur bundan hohlagancha resurslar ketma-ketlikda ishlatadi
+====
+ Operasion tizim va hisoblash tizimlarida bu istisno yoki xatolik deb qabul qilinadi
+====  
+Qurilmalarni o'rnatadi
+++++
+Interrupts (Uzilish) – bu?
+==== 
+# bir dasturni bajarilishini hozirgi vaqtda yanada muhimroq boshqa dasturni tezkor bajarish maqsadida vaqtincha to’xtatilishidir
+====
+Operativ xotiradan kerakli joy ajratadi va dastur bundan hohlagancha resurslar ketma-ketlikda ishlatadi
+====
+Operasion tizimni yuklovchi — bu Boot Record va Sistem Bootstrap dasturli modulidir
+====
+operasion tizim va hisoblash tizimlarida bu istisno yoki xatolik deb qabul qilinadi 
+++++
+Ierarxiyadagi eng tezkor va eng qimmat xotira?
+====
+ # Protsessor registrlari
+====
+ Elektron disklar
+====
+ Asosiy xotira
+====
+ Qidiruv xotira
+++++
+Resurslarni samarali boshqarish uchun operatsion tizimlar?
+====
+ # Resurslarni rejalashtirish va resurslar holatini kuzatish
+====
+ Dasturlarni boshqarish
+====
+ Resurslarni ajratish
+====
+ Resurslarning holatini kuzatib boring
+++++
+Operatsion tizimning asosiy tarkibiy qismlaridan biri - yadro quyidagi funktsiyalarni bajaradi?
+====
+ # Vazifalar va manbalarni boshqaradi
+====
+ Buyruqlarni qabul qiladi va qayta ishlaydi
+====
+ Tashqi qurilmalar yordamida ma'lumotlarni kiritish va chiqarishni amalga oshiradi
+====
+ Mantiqiy ma'lumotlar qatlami bilan ishlaydi
+++++
+Hisoblash tizimini boshqarish jarayonlari ma'lum vaqt chegaralarini qondiradigan operatsion tizimlar?
+====
+ # Haqiqiy vaqt rejimida ishlaydigan operatsion tizimlar
+====
+ Ommaviy rejimda ishlaydigan operatsion tizimlar
+====
+ Tarqatilgan operatsion tizimlar
+====
+ Monolitik operatsion tizimlar
+++++
+Ko'p dasturli va ko'p foydalanuvchili operatsion tizimlar?
+====
+ # UNIX operatsion tizimlari
+====
+ MS DOS
+====
+ Win 3x
+====
+ Win 2.0.
+++++
+Mikroyadorli operatsion tizimlarida mikroyadro quyidagi funktsiyalarni o'z ichiga oladi?
+====
+ # Minimal talab qilinadigan xususiyatlar
+====
+ Operatsion tizimni yuklash funktsiyalari
+====
+ Xotirani ajratish funktsiyalari
+====
+ Kiritish-chiqarish funktsiyalari
+++++
+Modulli printsip yordamida yaratilgan operatsion tizimlarda dastur quyidagilardan iborat?
+====
+ # Mustaqil qismlardan (modullardan)
+====
+ Bitta moduldan
+====
+ O'zaro bog'liq bo'lgan bir nechta qismlar
+====
+ Ko'p qavatli, o'zaro bog'liq tizim
+++++
+Kasperskiy antivirus dasturining korporativ versiyasi, u yirik tarmoqlar uchun mo'ljallangan va ularning xavfsizligini quyidagi xususiyatlar bilan ta'minlaydi?
+====
+ # Markazlashtirilgan masofadan boshqarish pultini taqdim etadi, to'liq statistik ma'lumotlarni taqdim etadi va katta hajmdagi ma'lumotlar bilan ishlaydi (ma'lumotlar bazasi bilan)
+====
+ Qulay o'rnatish va o'rnatish
+====
+ Cheklangan resurslar bilan ishlaydi
+====
+ Katta hajmdagi ma'lumotlar bazalari bilan ishlaydi
+++++
+Kasperskiy antivirus dasturining shaxsiy versiyasi quyidagi xususiyatlarga ega?
+====
+ # Qulay o'rnatish va sozlash
+====
+ Cheklangan resurslar bilan ishlaydi
+====
+ Katta hajmdagi ma'lumotlar bazalari bilan ishlaydi
+====
+ Markazlashtirilgan masofadan boshqarishni ta'minlaydi
+++++
+Ajratilgan birliklar zaxiralari uchun resurslar ham topiladi, shuning uchun ular?
+====
+ # Muayyan qoidalarga muvofiq tarqatiladi
+====
+ Muayyan algoritm bo'yicha taqsimlanadi
+====
+ Rejaga muvofiq
+====
+ Doimiy ravishda
+++++
+Masalalarni qayta ishlash rejimi bo'yicha operatsion tizimlar sinflanishi?
+==== 
+ # bir vazifali , ko'p vazifali
+====
+ bir vazifali
+====
+ ko'p vazifali
+====
+ ko'p foydalanuvchi
+++++
+O'zaro bog'lanish bo'yicha operatsion tizimlar sinflanishi?
+==== 
+ # bir foydalanuvchi va ko'p foydalanuvchi
+====
+ bir vazifali , ko'p vazifali 
+==== 
+ ko'p vazifali
+====
+ ko'p foydalanuvchi
+++++
+Meynfraymlar bu?
+==== 
+ # OT lari kiritish/chiqarish amallari ko’p bo’lgan, bir vaqtda bajaradigan topshiriqlar to’plamiga ishlov berishga yo’naltirilgan
+====
+ Hajmi va bajaradigan amallar tezligi jihatidan katta kompyuterlardan kamida bir pog’ona pastdir.
+==== 
+ Hajmi va bajaradigan amallar tezligi jihatidan katta kompyuterlardan kamida bir pog’ona pastdir. Shuni aytish joizki, ularning o’lchamlari tobora ixchamlashib, hatto shaxsiy kompyuterdek kichik joyni egallaydiganlari yaratilmoqda
+====  
+ Juda katta tezlikni talab qiladigan va katta hajmdagi masalalarni yechish uchun mo’ljallangan bo’ladi. Bunday masalalar sifatida ob-havoning global prognoziga oid masalalarni, uch o’lchovli fazoda turli oqimlarning kechishini o’rganish masalalarini keltirish mumkin. Bu kompyuterlar bir sekundda 10 trilliardlab amal bajaradi.
+++++
+Mikrokompyuterlar bu?
+====
+ # Hajmi va bajaradigan amallar tezligi jihatidan katta kompyuterlardan kamida bir pog’ona pastdir. Shuni aytish joizki, ularning o’lchamlari tobora ixchamlashib, hatto shaxsiy kompyuterdek kichik joyni egallaydiganlari yaratilmoqda
+====
+ Hajmi va bajaradigan amallar tezligi jihatidan katta kompyuterlardan kamida bir pog’ona pastdir.
+==== 
+ OT lari kiritish/chiqarish amallari ko’p bo’lgan, bir vaqtda bajaradigan topshiriqlar to’plamiga ishlov berishga yo’naltirilgan
+====
+juda katta tezlikni talab qiladigan va katta hajmdagi masalalarni yechish uchun mo’ljallangan bo’ladi. Bunday masalalar sifatida ob-havoning global prognoziga oid masalalarni, uch o’lchovli fazoda turli oqimlarning kechishini o’rganish masalalarini keltirish mumkin. Bu kompyuterlar bir sekundda 10 trilliardlab amal bajaradi.
+++++
+Super komputerlar bu?
+====
+ # juda katta tezlikni talab qiladigan va katta hajmdagi masalalarni yechish uchun mo’ljallangan bo’ladi. Bunday masalalar sifatida ob-havoning global prognoziga oid masalalarni, uch o’lchovli fazoda turli oqimlarning kechishini o’rganish masalalarini keltirish mumkin. Bu kompyuterlar bir sekundda 10 trilliardlab amal bajaradi.
+====
+ Hajmi va bajaradigan amallar tezligi jihatidan katta kompyuterlardan kamida bir pog’ona pastdir. 
+====
+  OT lari kiritish/chiqarish amallari ko’p bo’lgan, bir vaqtda bajaradigan topshiriqlar to’plamiga ishlov berishga yo’naltirilgan
+====
+ Hajmi va bajaradigan amallar tezligi jihatidan katta kompyuterlardan kamida bir pog’ona pastdir. Shuni aytish joizki, ularning o’lchamlari tobora ixchamlashib, hatto shaxsiy kompyuterdek kichik joyni egallaydiganlari yaratilmoqda 
+++++
+Minikompyuterlar – bu ...?
+====
+ # Hajmi va bajaradigan amallar tezligi jihatidan katta kompyuterlardan kamida bir pog’ona pastdir. Shuni aytish joizki, ularning o’lchamlari tobora ixchamlashib, hatto shaxsiy kompyuterdek kichik joyni egallaydiganlari yaratilmoqda
+====
+ Hajmi va bajaradigan amallar tezligi jihatidan katta kompyuterlardan kamida bir pog’ona pastdir. 
+====
+ OT lari kiritish/chiqarish amallari ko’p bo’lgan, bir vaqtda bajaradigan topshiriqlar to’plamiga ishlov berishga yo’naltirilgan
+====
+ Juda katta tezlikni talab qiladigan va katta hajmdagi masalalarni yechish uchun mo’ljallangan bo’ladi. Bunday masalalar sifatida ob-havoning global prognoziga oid masalalarni, uch o’lchovli fazoda turli oqimlarning kechishini o’rganish masalalarini keltirish mumkin. Bu kompyuterlar bir sekundda 10 trilliardlab amal bajaradi.
+++++
+Operatsion tizimlar tuzilishiga ko'ra sinflanishi?
+==== 
+ # Monolit, ko'p sathli, Klient -Server, Mikro yadroli
+====
+ Monolit, Ko'p sathli
+====
+ Klient - server
+====
+ Mikro yadroli
+++++
+Monolit operatsion tizimlar bu?
+====
+ # bu biron bir aniq strukturaga ega bo’lmagan tuzilishga ega operatsion tizim hisoblanadi.
+====
+ Faqat sever bilan ishlovchi OT 
+==== 
+ Faqat yadro bilan ishlovchi OT
+====
+ To'g'ri javob berilmagan
+++++
+Quyidagilardan qaysi biri Mikroyadroli operatsion tizim hisoblaniladi?
+==== 
+ # linux 
+====
+ To'g'ri javob berilmagan 
+====
+ Windows 
+====
+ Solaris 
+++++
+Tizimli chaqiruv-?
+==== 
+ # Operasion tizim va ishlayotgan dastur orasidagi interfeysni taminlab beradi
+====
+ Xotiradan joy ajratib beradi
+====
+ Xotirada saqlaydi
+====
+ elektr manbaini ta'inlab beradi
+++++
+FAT fayl tizimidagi mantiqiy disk quyidagilarga bo'linadi?
+====
+ # Tizim maydoni va ma'lumotlar maydoni
+====
+ Ma'lumotlar maydoni va kataloglari
+====
+ Katalog maydoni va tizim maydoni
+====
+ yuklash joylari
+++++
+FAT fayl tizimiga quyidagilar kiradi?
+====
+ # Barcha javoblar to'g'ri
+====
+ manzilli mantiqiy disk bo'limlari
+====
+ Diskdagi bo'sh joy
+====
+ Diskdagi nuqsonli joylar
+++++
+Fayl bilan ishlash dasturi?
+====
+ # Fayl menejeri
+====
+ dastur menejeri
+====
+ xotira menejeri
+====
+ qurilmalar menejeri
+++++
+Zamonaviy fayllarni boshqarish tizimlari?
+====
+ # NTFS
+====
+ FAT
+====
+ Super FAT
+====
+ HPFS
+++++
+Fayl tizimidan foydalanish?
+====
+ # Ma'lumotlarni qayta ishlash dasturlari bilan bog'laning va disk maydonini markaziy ravishda taqsimlash
+====
+ disk maydoni ajratish
+====
+ Ma'lumotlar bazasi bilan bog'lash
+====
+ fayllari tarqatish
+++++
+Zamonaviy operatsion tizimlarda xotira?
+====
+ # Har bir segment uchun sahifalar bo'limlari
+====
+ O'zgaruvchan bo'limlarda
+====
+ segmentlari
+====
+ Ruxsat etilgan bo'limlar
+++++
+Ochiq manbali operatsion tizimlarda?
+====
+ # Tizim kodlari ochiq, istalgan foydalanuvchi uni o'zgartirishi mumkin
+====
+ Dastur kodlari ochiq, ammo ularni o'zgartirish mumkin emas
+====
+ Tizim kodlari faqat mualliflar uchun ochiq
+====
+ Dastur kodlari yopish
+++++
+Ma'lumotlarning xotirada joylashishi?
+====
+ #Segment
+====
+ Yig'ma
+====
+ Qatlam
+====
+ Sahifa
+++++
+Katta hajmga, samarali foydalanishga va alohida avtonom energiya manbasiga ega bo'lgan xotira deyiladi?
+====
+ #Doimiy xotira
+====
+ Ikkilamchi xotira
+====
+ Protsessor registrlari
+====
+ Elektron disklar
+++++
+Zamonaviy operatsion tizimlardagi manbalar quyidagilarni anglatadi?
+====
+ # Protsessor vaqti, xotira, kirish va chiqish kanallari, tashqi qurilmalar, dastur modullari, axborot resurslari, xabarlar va signallar
+====
+ Dastur modullari
+====
+ Xabarlar va signallar
+====
+ Axborot resurslari
+++++
+Operatsion tizimga qo'yiladigan talablar bular?
+====
+ # Barcha javoblar to'g'ri
+====
+ dasturlar va a'luotlarni himoyalash
+====
+ Samaradorlik, Moslashuvchanlik,
+ Yangilanish
+====
+ Ishonchlilik, Qulaylilik, aniqlik 
+++++
+BIOS bu ?
+====
+ # Bu doimiy xotira qurilmasida joylashgan bo'lib mikrodasturlar jamlanmasi bo'lib, quyi darajali kiritish/chiqarish amallarni bajaradi
+==== 
+ Tizimni ishlash jarayonini elektr ta'minot bilan taminlab beradi
+====
+ amaliy dasturlarni boshqaradi
+====
+ Barcha javoblar nato'g'ri
+++++
+Drayverlar bu? 
+====
+ #Tashqi qurilmalarning fiziki darajada ishlashini boshqaruvchi dasturlardir
+====
+ Tizimni ishlash jarayonini elektr ta'minot bilan taminlab beradi
+====
+ amaliy dasturlarni boshqaradi
+====
+ Bu doimiy xotira qurilmasida 
+joylashgan bo'lib mikrodasturlar
+====
+ jamlanmasi bo'lib, quyi darajali kiritish/chiqarish amallarni bajaradi  
+++++
+Bir masalali OT ga qaysilar kiradi?
+====
+ # MS-DOS, MSX
+====
+ Windows, Unix, OS/2
+====
+ MS-DOS, Windows 3.x, OS/2 dastlabki versiyasi
+====
+ To'g'ri javob berilmagan
+++++
+Ko'p masalali OT ga qaysilar kiradi?
+====
+ # Windows, Unix, OS/2
+====
+ MS-DOS, MSX 
+====
+ MS-DOS, Windows 3.x, OS/2 dastlabki versiyasi
+====
+ To'g'ri javob berilmagan
+++++
+Bir foydalanuvchilik OT ga qaysilar kiradi
+====
+ # MS-DOS, Windows 3.x, OS/2 dastlabki versiyasi
+====
+ Windows, Unix, OS/2
+====
+ MS-DOS, MSX  
+====
+ To'g'ri javob berilmagan
+++++
+Ko'p foydalanuvchilik OT ga qaysilar kiradi?
+====
+ # Windows, Unix, OS/2
+====
+ MS-DOS, MSX  
+====
+ MS-DOS, Windows 3.x, OS/2 dastlabki versiyasi
+====
+ To'g'ri javob berilmagan
+++++
+Operatsion tizim qobiqlari?
+==== 
+ # Foydalanuvchi uchun tizim funksiyalaridan unumli foydalanish interfeysini ta'inlab beruvchi dasturlar
+==== 
+ Xotirani boshqarish qurilmasi
+====
+ Tashqi qurilmani boshqarish qurilmasi
+====
+ To'g'ri javob berilmagan
+++++
+Quyidagi dasturlardan qaysi birlari grafik muxarrir hisoblanadi?
+====
+ # Paint, Adobe Photoshop 
+====
+ Word
+====
+ Excel
+====
+ MS-DOS, MSX 
+++++
+FAT32, Ext2, NTFS — bu …?
+====
+ # Paint, Adobe Photoshop  
+====
+ Word
+====
+ Excel
+====
+ MS-DOS, MSX 
+++++
+Quyidagi operatsion tizimlardan qaysi biri bitta foydalanuvchi va bitta dasturli operatsion tizimdir?
+====
+ # MS DOS
+====
+ OS / 2
+====
+ Linux
+====
+ OS EC
+====
+ UNIX
+++++
+Shaxsiy kompyuterlar uchun mo'ljallangan va bir nechta operatsion tizimlarni qo'llab-quvvatlaydigan birinchi ko'p dasturli, ko'p vazifali, ishonchli operatsion tizim?
+====
+ # OS / 2
+====
+ QNX
+====
+ UNIX
+====
+ Win NT
+++++
+UNIX operatsion tizimining osongina ko'chirilishi yoki ko'chirilish xususiyati sababi?
+====
+ # Operatsion tizim kodlari yuqori darajadagi tilda yozilgan (masalan, C)
+====
+ kodlari assambleya tilida yozilgan
+====
+ Ko'p foydalanuvchi tizimi
+====
+ Ko'p dasturli tizim
+++++
+Tarmoq operatsion tizimlari funktsiyalarning ajratilishiga qarab tasniflanadi?
+====
+ # Bir martalik tarmoq OT va maxsus serverlarga ega OT
+====
+ korporativ va mahalliy tarmoq
+====
+ LAN va WAN
+====
+ Korxona va bo'limlar tarmog'i
+++++
+Tarmoq operatsion tizimlari ... .. qismlardan iborat?
+====
+ # To'rt
+====
+ Ikki
+====
+ Uch
+====
+ Besh
+++++
+Tarmoq operatsion tizimi deganda keng tushuniladi?
+====
+ # Xabar almashish va resurslarni birgalikda ishlatish uchun o'zaro ta'sir qiluvchi individual kompyuterlarning operatsion tizimlari to'plami yagona qoidalar - protokollar
+====
+ Shaxsiy kompyuterning uni tarmoqda ishlashini ta'minlaydigan operatsion tizimlari
+====
+ Boshqa kompyuterga kirishga imkon beruvchi operatsion tizimlar
+====
+ Boshqa kompyuterlarga resurslarni etkazib beradigan operatsion tizimlar
+++++
+Foydalanuvchiga u yoki bu turga kirishga imkon beradigan huquqlar to'plami deyiladi (NTFS fayl tizimida)?
+====
+ # Shaxsiy ruxsatnomalar
+====
+ standart qarorlari
+====
+ Maxsus tasdiqlashlar
+====
+ Tashqi tasdiqlash
+++++
+Fayllarni boshqarish tizimi quyidagi funksiyalarni bajaradi?
+====
+ # fayl operatsiyalari va foydalanuvchi interfeysi funktsiyalari
+====
+ diskdan tashqari qurilmalar bilan fayl sifatida ishlash
+====
+ diskdan tashqari qurilmalar bilan ishlash jarayonlarni boshqaradi
+====
+ foydalanuvchi interfeysi va fayllar bilan ishlashni amalga oshiradi 
+++++
+Boshqarish mexanizmlari bilan protsessor vaqtining 90 foizini egallaydigan va nisbatan past ko'rsatkichlarga ega bo'lgan eng xavfsiz operatsion tizimlar quyidagilar?
+====
+ # A sinf
+====
+ sinf B
+====
+ 3-sinf
+====
+ 4-sinf
+++++
+Yuqori mahsuldorlikka ega fayl tizimi
+====
+ # HPFS
+====
+ FAT
+====
+ NTFS
+====
+ VFAT
+++++
+Windows operatsion tizimining boshqa operatsion tizimlardan tubdan farqi nimada?
+====
+ # GUI va bir nechta dasturlarni ishlatish qobiliyati
+====
+ Hisoblashning ishonchliligi
+====
+ Buyruq tili yo'qligi
+====
+ Dialog operatsiyasi yo'qligi
+++++
+Shaxsiy kompyuterlar uchun mo'ljallangan va bir nechta operatsion tizimlarni qo'llab-quvvatlaydigan birinchi ko'p dasturli, ko'p vazifali, ishonchli operatsion tizim?
+====
+ # OS / 2
+====
+ QNX
+====
+ UNIX
+====
+ Win NT
+++++
+Tarmoq operatsion tizimlari funktsiyalarning ajratilishiga qarab tasniflanadi?
+====
+ #Bir martalik tarmoq OS va maxsus serverlarga ega OS
+====
+ korporativ va mahalliy tarmoq
+====
+ LAN va WAN
+====
+ Korxona va bo'limlar tarmog'i
+++++
+Tarmoq operatsion tizimlarini yaratishda bir nechta yondashuvlar mavjud bular?
+====
+ # Mahalliy operatsion tizimlar va qobiq, tarmoq funktsiyalari boshidanoq hisobga olingan
+====
+ Mahalliy va Shell
+====
+ Client va Server
+====
+ Ob'ektga yo'naltirilgan yondashuv
+++++
+Tarmoq operatsion tizimining masofaviy manbalar va xizmatlarga kirishni ta'minlovchi qismi?
+====
+ #Mijozlar qismi
+====
+ Server qismi
+====
+ Aloqa qismi
+====
+ Mahalliy qism
+++++
+O'z resurslarini ommaviy ravishda taqdim etadigan tarmoq operatsion tizimining bir qismi?
+====
+ # Server qismi
+====
+ mijoz qismi
+====
+ Aloqa qismi
+====
+ Mahalliy qism
+++++
+Tor ma'noda tarmoq operatsion tizimlari?
+====
+ #Shaxsiy kompyuterning tarmoqda ishlashini ta'minlaydigan operatsion tizimlari
+====
+ Xabar almashish va resurslarni umumiy qoidalar asosida almashish maqsadida o'zaro ta'sir qiluvchi alohida kompyuterlarning operatsion tizimlari to'plami - protokollar
+====
+ Boshqa kompyuterga kirishga imkon beruvchi operatsion tizimlar
+====
+ Operatsion tizimlari Boshqa kompyuterlarga resurslarni etkazib berish
+++++
+Vazifalari: uni ko'rish, qo'shish, o'qish, yozish va o'zgartirish (NTFS fayl tizimida) bu?
+==== 
+ #standart qarorlari
+====
+ Shaxsiy tasdiqlash
+====
+ Maxsus tasdiqlashlar
+====
+ Tashqi tasdiqlash
+++++
+NTFS fayl tizimi?
+====
+ # Yangi texnologik fayl tizimi
+====
+ Juda ishonchli
+====
+ disk maydonidan samarali foydalanadi
+====
+ To'g'ri javob yo'q
+++++
+Haqiqiy vaqtdagi operatsion tizimlar ana shunday tizimlardir bu?
+====
+ #Kiruvchi ishlarni belgilangan vaqt oralig'ida qayta ishlashni oshirib yubormaslik
+====
+ Dastur ob'ektning hozirgi holatiga qarab tanlanadi
+====
+ Dastur rejalashtirilgan ish jadvallari asosida tanlanadi
+====
+ Har xil texnologik ob'ektlar va jarayonlarni boshqaradi
